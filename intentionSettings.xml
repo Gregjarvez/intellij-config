@@ -1,0 +1,30 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="JavaScript/Conditional Operator/Flip If" />
+    <ignoreAction name="JavaScript/Control Flow/Add Braces" />
+    <ignoreAction name="Other/Flip ','" />
+    <ignoreAction name="JavaScript/Control Flow/Replace Switch With If" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="JavaScript/Convert arrow function to anonymous function" />
+    <ignoreAction name="JavaScript/Convert parameters to object" />
+    <ignoreAction name="JavaScript/Convert anonymous function to named function" />
+    <ignoreAction name="XML/Expand empty tag" />
+    <ignoreAction name="JavaScript/Other/Replace Double-Quoted String with Single-Quoted String" />
+    <ignoreAction name="JavaScript/Shift Operation/Replace Shift with Multiply" />
+    <ignoreAction name="XML/Collapse empty tag" />
+    <ignoreAction name="JavaScript/Introduce local variable" />
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Convert arrow function to anonymous function" />
+    <ignoreAction name="React/Convert to class component" />
+    <ignoreAction name="JavaScript/Numbers/Convert To Octal" />
+    <ignoreAction name="JavaScript/Numbers/Convert To Binary" />
+    <ignoreAction name="JavaScript/Numbers/Convert To Hexadecimal" />
+    <ignoreAction name="JavaScript/Conditional Operator/Flip Conditional" />
+    <ignoreAction name="JavaScript/Conditional Operator/Replace Conditional With If Else" />
+    <ignoreAction name="Markdown/Hide errors in code fences" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Convert template string to use visible line separators" />
+    <ignoreAction name="JavaScript/Declaration/Split Declaration And Initialization" />
+    <ignoreAction name="Language injection/Edit injected fragment" />
+  </component>
+</application>

@@ -1,0 +1,58 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log($END$)" description="console.log()" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="imp" value="import $2$ from $1$" description="import statement" toReformat="false" toShortenFQNames="true">
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="qu" value="/* ? */" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="qut" value="/* ?. */" description="quokka templates" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="webpack" value="const webpack = require('webpack');&#10;const path = require('path');&#10;const extractCssPlugins = require('extract-text-webpack-plugin');&#10;const HtmlWebpackPlugin = require('html-webpack-plugin');&#10;&#10; const config = {&#10;  context  : __dirname,&#10;  devtool  : 'cheap-eval-source-map',&#10;  entry    : [&#10;    'react-hot-loader/patch',&#10;    'webpack-dev-server/client?http://localhost:8080',&#10;    'webpack/hot/only-dev-server',&#10;    '$entry$'&#10;  ],&#10;  output   : {&#10;    path      : path.join(__dirname, '$output$'),&#10;    filename  : 'bundle.js',&#10;    publicPath: '/'&#10;  },&#10;  resolve  : {&#10;    extensions: ['.js', '.json', '.scss']&#10;  },&#10;  devServer: {&#10;    hot               : true,&#10;    historyApiFallback: true,&#10;    contentBase       : $output$,&#10;    compress          : true&#10;  },&#10;  stats    : {&#10;    colors : true,&#10;    reasons: true,&#10;    chunks : false&#10;  },&#10;  module   : {&#10;    rules: [&#10;      {&#10;        test: /\.scss$/,&#10;        use : ['css-hot-loader'].concat(extractCssPlugins.extract({&#10;          fallback: 'style-loader',&#10;          use     : ['css-loader', 'sass-loader']&#10;        }))&#10;      },&#10;      {&#10;        enforce: 'pre',&#10;        use    : 'eslint-loader',&#10;        exclude: /node_moduless/&#10;      },&#10;      {&#10;        test   : /\.js$/,&#10;        loader : 'babel-loader',&#10;        exclude: /node_modules/&#10;      },&#10;      {&#10;        test   : /\.jsx$/,&#10;        loader : 'babel-loader',&#10;        exclude: /node_modules/&#10;      },&#10;      {&#10;        test  : /\.html$/,&#10;        loader: 'html-loader'&#10;      },&#10;      {&#10;        test  : /\.json$/,&#10;        loader: 'json-loader'&#10;      }&#10;    ]&#10;  },&#10;  plugins  : [&#10;    new webpack.HotModuleReplacementPlugin(),&#10;    new webpack.NamedModulesPlugin(),&#10;    new extractCssPlugins('style.css'),&#10;    new HtmlWebpackPlugin({&#10;      filename: 'index.html',&#10;      template: '$teplatePath$'&#10;    })&#10;  ]&#10;};&#10;&#10;&#10;if (process.env.NODE_ENV) {&#10;  config.plugins.push(&#10;    new webpack.DefinePlugin({&#10;      &quot;process.env&quot;: {&#10;        &quot;NODE_ENV&quot;: JSON.stringify('production')&#10;      }&#10;    }),&#10;    new webpack.optimize.UglifyJsPlugin()&#10;  )&#10;}&#10;&#10;module.exports = config;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="entry" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="output" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="teplatePath" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="babel-react" value="{&#10;  &quot;presets&quot;: [&#10;    &quot;react&quot;,&#10;    [&#10;      &quot;env&quot;,&#10;      {&#10;        &quot;targets&quot;: {&#10;          &quot;browsers&quot;: &quot;last 2 version&quot;&#10;        },&#10;        &quot;loose&quot;: true,&#10;        &quot;modules&quot;: false&#10;      }&#10;    ]&#10;  ],&#10;  &quot;plugins&quot;: [&#10;    &quot;react-hot-loader/babel&quot;,&#10;    &quot;transform-class-properties&quot;,&#10;    &quot;transform-object-rest-spread&quot;&#10;  ],&#10;  &quot;env&quot;: {&#10;    &quot;test&quot;: {&#10;      &quot;plugins&quot;: [&#10;        &quot;transform-es2015-modules-commonjs&quot;&#10;      ]&#10;    }&#10;  }&#10;}&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="story" value="import React from 'react';&#10;&#10;import { storiesOf } from '@storybook/react';&#10;import { withKnobs } from '@storybook/addon-knobs';&#10;&#10;import { withPadding, withClickOutlineRemover } from 'stories/utils/decorators';&#10;&#10;storiesOf('$group$', module)&#10;  .addDecorator(withPadding)&#10;  .addDecorator(withKnobs)&#10;  .addDecorator(withClickOutlineRemover)&#10;  .addWithChapters('$component$', {&#10;      subtitle: 'Renders the button component',&#10;       chapters: []&#10;  })" description="Story book template" toReformat="false" toShortenFQNames="true">
+    <variable name="group" expression="" defaultValue="Component" alwaysStopAt="true" />
+    <variable name="component" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="esd" value="// eslint-disable-next-line" description="Disable next line eslint" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="sfn" value="styled.$VAR$(({ $VAR1$ }) =&gt; css`$VAR2$`); " description="Styled Component" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

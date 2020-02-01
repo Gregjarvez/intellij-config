@@ -1,0 +1,15 @@
+<application>
+  <component name="CssEmmetOptions">
+    <option name="fuzzySearchEnabled" value="false" />
+    <option name="unknownPropertiesExpansionEnabled" value="true" />
+  </component>
+  <component name="EmmetOptions">
+    <option name="addEditPointAtTheEndOfTemplate" value="true" />
+    <option name="filtersEnabledByDefault">
+      <set>
+        <option value="bem" />
+      </set>
+    </option>
+    <option name="previewEnabled" value="true" />
+  </component>
+</application>

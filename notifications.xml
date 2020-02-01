@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Codota Deep Completions" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+  </component>
+</application>

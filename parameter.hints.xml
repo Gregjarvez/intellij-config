@@ -1,0 +1,24 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="JSX Harmony">
+        <added pattern="_.get(object,path,defaultValue)" />
+        <added pattern="parse(str,opts)" />
+        <added pattern="registerComponent(type,component)" />
+        <added pattern="Array.map(callbackfn,thisArg)" />
+      </blacklist>
+      <blacklist language="JavaScript" />
+    </blacklists>
+    <option id="js.show.names.for.all.args" value="true" />
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="TypeScript" />
+      <language id="Angular2Html" />
+      <language id="JavaScript" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+      <language id="SQL" />
+    </disabledLanguages>
+  </component>
+</application>
