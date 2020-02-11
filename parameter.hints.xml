@@ -8,7 +8,9 @@
         <added pattern="registerComponent(type,component)" />
         <added pattern="Array.map(callbackfn,thisArg)" />
       </blacklist>
-      <blacklist language="JavaScript" />
+      <blacklist language="JavaScript">
+        <added pattern="Array.map(callbackfn,thisArg)" />
+      </blacklist>
     </blacklists>
     <option id="js.show.names.for.all.args" value="true" />
     <disabledLanguages>
