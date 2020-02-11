@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="Prettier " description="Code formatter" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Prettier " description="Code formatter" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.nvm/versions/node/v8.11.3/bin/prettier" />
       <option name="PARAMETERS" value="--write --single-quote print-width=200 --trailing-comma=all $FilePathRelativeToProjectRoot$" />
