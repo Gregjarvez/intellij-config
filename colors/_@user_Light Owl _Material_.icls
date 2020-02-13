@@ -4,10 +4,11 @@
     <property name="created">2019-12-22T20:44:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-01-07T10:51:15</property>
+    <property name="modified">2020-02-13T16:34:38</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Lekton" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
@@ -1158,7 +1159,6 @@
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="111111" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.NULL_UNDEFINED">
