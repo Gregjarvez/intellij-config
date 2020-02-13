@@ -26,5 +26,8 @@
     <ignoreAction name="JavaScript/ECMAScript 6/Convert template string to use visible line separators" />
     <ignoreAction name="JavaScript/Declaration/Split Declaration And Initialization" />
     <ignoreAction name="Language injection/Edit injected fragment" />
+    <ignoreAction name="JavaScript/Declaration/Split Declaration And Move To Scope Start" />
+    <ignoreAction name="TypeScript/Disable coloring of type guard narrowed types" />
+    <ignoreAction name="Language injection/Inject language or reference" />
   </component>
 </application>
