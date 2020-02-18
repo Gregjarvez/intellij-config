@@ -4,7 +4,7 @@
     <property name="created">2019-12-22T20:44:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-02-18T09:30:50</property>
+    <property name="modified">2020-02-18T11:27:26</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Lekton" />
@@ -2702,13 +2702,11 @@
     <option name="PHP_INTERFACE">
       <value>
         <option name="FOREGROUND" value="4876d6" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="994cc3" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_NUMBER">
@@ -2729,7 +2727,6 @@
     <option name="PHP_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="c969b" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_STATIC_METHOD">
