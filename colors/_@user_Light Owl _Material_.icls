@@ -4,7 +4,7 @@
     <property name="created">2019-12-22T20:44:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-02-18T11:27:26</property>
+    <property name="modified">2020-02-19T14:44:11</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Lekton" />
@@ -30,6 +30,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d6438a" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d6438a" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d6438a" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="9ccc65" />
     <option name="FILESTATUS_MERGED" value="e0af02" />
     <option name="FILESTATUS_MODIFIED" value="6fbef6" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
