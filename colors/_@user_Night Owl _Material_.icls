@@ -4,10 +4,11 @@
     <property name="created">2019-12-22T20:44:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-02-28T10:58:52</property>
+    <property name="modified">2020-03-06T12:08:32</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
@@ -20,29 +21,29 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="11627" />
-    <option name="FILESTATUS_ADDED" value="9ccc65" />
-    <option name="FILESTATUS_COPIED" value="9ccc65" />
-    <option name="FILESTATUS_DELETED" value="ef5350" />
-    <option name="FILESTATUS_HIJACKED" value="7e57c2" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ef5350" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="395a75" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ffeb95" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ffeb95" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ffeb95" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_ADDED" value="7fdbca" />
+    <option name="FILESTATUS_COPIED" value="659d9a" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="676e95" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="49d0c5" />
-    <option name="FILESTATUS_MERGED" value="a2bffc" />
-    <option name="FILESTATUS_MODIFIED" value="e2b93d" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="FILESTATUS_RENAMED" value="7e57c2" />
-    <option name="FILESTATUS_SUPPRESSED" value="d6deeb" />
-    <option name="FILESTATUS_SWITCHED" value="e2b93d" />
-    <option name="FILESTATUS_UNKNOWN" value="addb67" />
-    <option name="FILESTATUS_addedOutside" value="addb67" />
-    <option name="FILESTATUS_changelistConflict" value="ffeb95" />
-    <option name="FILESTATUS_modifiedOutside" value="e2b93d" />
+    <option name="FILESTATUS_MERGED" value="65738e" />
+    <option name="FILESTATUS_MODIFIED" value="7fdbca" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="7fdbca" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="7fdbca" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_SUPPRESSED" value="676e95" />
+    <option name="FILESTATUS_SWITCHED" value="8978f" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="629755" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="7fdbca" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="122d42" />
     <option name="GUTTER_BACKGROUND" value="11627" />
     <option name="INDENT_GUIDE" value="84d81" />
