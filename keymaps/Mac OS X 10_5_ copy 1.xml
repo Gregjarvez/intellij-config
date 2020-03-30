@@ -9,6 +9,7 @@
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="ctrl #10000a7" />
   </action>
+  <action id="GotoTest" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift e" />
   </action>
@@ -19,12 +20,17 @@
     <keyboard-shortcut first-keystroke="ctrl meta l" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ResourceExplorer.show" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="TogglePinnedMode">
     <keyboard-shortcut first-keystroke="shift add" />
