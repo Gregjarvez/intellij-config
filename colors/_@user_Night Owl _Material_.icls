@@ -4,11 +4,11 @@
     <property name="created">2019-12-22T20:44:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-03-07T17:17:07</property>
+    <property name="modified">2020-03-30T23:39:20</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
@@ -403,7 +403,6 @@
       <value>
         <option name="FOREGROUND" value="7fdbca" />
         <option name="EFFECT_COLOR" value="7fdbca" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
