@@ -11,6 +11,9 @@
       <blacklist language="JavaScript">
         <added pattern="Array.map(callbackfn,thisArg)" />
       </blacklist>
+      <blacklist language="Scala">
+        <added pattern="playground.Playground.Person.Person(name,age,favouriteMovie)" />
+      </blacklist>
     </blacklists>
     <option id="js.show.names.for.all.args" value="true" />
     <disabledLanguages>
