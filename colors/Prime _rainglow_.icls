@@ -1,15 +1,11 @@
 <scheme name="Prime (rainglow)" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-12-13T12:00:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2020-05-04T11:58:57</property>
+    <property name="modified">2020-05-04T12:30:21</property>
     <property name="originalScheme">Prime</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a2d66b" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
