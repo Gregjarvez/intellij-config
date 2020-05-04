@@ -4,19 +4,11 @@
     <property name="created">2017-12-13T12:00:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2018-03-27T18:31:13</property>
+    <property name="modified">2020-05-04T11:58:57</property>
     <property name="originalScheme">Prime</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a2d66b" />
@@ -138,12 +130,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -607,7 +593,6 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="ee4266" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -718,7 +703,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="9d50ba" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -770,7 +754,6 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="9090b2" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -1218,6 +1201,9 @@
         <option name="FOREGROUND" value="a2d66b" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="a2d66b" />
@@ -1303,10 +1289,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="9d50ba" />
@@ -1319,6 +1301,12 @@
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -1353,12 +1341,10 @@
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FOREGROUND" value="72729d" />
-      </value>
-    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
@@ -1993,9 +1979,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="b39613" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">

@@ -1,9 +1,5 @@
 <scheme name="Material Peacock" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Operator Mono" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LIGATURES" value="true" />
@@ -656,6 +652,9 @@
         <option name="FOREGROUND" value="bcd42a" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ff5d38" />
@@ -867,6 +866,9 @@
         <option name="FOREGROUND" value="26a6a6" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -916,6 +918,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
