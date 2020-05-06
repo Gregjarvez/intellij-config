@@ -3,7 +3,7 @@
     <property name="created">2017-12-13T12:00:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2020-05-04T12:30:21</property>
+    <property name="modified">2020-05-06T14:17:19</property>
     <property name="originalScheme">Prime</property>
   </metaInfo>
   <colors>
@@ -672,7 +672,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="9090b2" />
+        <option name="FOREGROUND" value="10f8c0" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -1301,8 +1301,7 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="9876aa" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="ff711e" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
