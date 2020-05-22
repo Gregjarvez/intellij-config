@@ -3,6 +3,18 @@
     <option name="promptedForTelemetry" value="true" />
     <option name="telemetryEnabled" value="false" />
   </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="/usr/local/bin/sam" />
+          <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1584528881790" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
   <component name="sam">
     <option name="savedExecutablePath" value="/usr/local/bin/sam" />
   </component>
