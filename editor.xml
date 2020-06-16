@@ -1,8 +1,13 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="ADD_IMPORTS_ON_PASTE" value="3" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="100" />
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
@@ -34,6 +39,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="CARET_BLINKING_PERIOD" value="200" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
@@ -49,6 +55,7 @@
     <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
   <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
     <option name="tagTreeHighlightingOpacity" value="20" />
   </component>
 </application>

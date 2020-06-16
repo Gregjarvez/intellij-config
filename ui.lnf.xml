@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="5" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
