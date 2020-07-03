@@ -10,7 +10,6 @@
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="20" />
     <option name="FONT_FAMILY" value="Operator Mono Lig" />
     <option name="LINE_SPACING" value="1.3" />
     <option name="USE_LIGATURES" value="true" />
