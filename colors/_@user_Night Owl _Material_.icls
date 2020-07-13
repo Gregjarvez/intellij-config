@@ -4,11 +4,11 @@
     <property name="created">2020-07-12T21:38:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-07-12T22:14:08</property>
+    <property name="modified">2020-07-13T09:40:43</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="LINE_SPACING" value="1.7" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono Lig" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
