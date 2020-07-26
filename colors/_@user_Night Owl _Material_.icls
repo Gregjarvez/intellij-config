@@ -4,11 +4,15 @@
     <property name="created">2020-07-12T21:38:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-07-21T00:38:23</property>
+    <property name="modified">2020-07-25T15:56:01</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="2.0" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Dank Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="Dank Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
