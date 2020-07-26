@@ -10,9 +10,9 @@
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="20" />
-    <option name="FONT_FAMILY" value="Operator Mono Lig" />
-    <option name="LINE_SPACING" value="2.0" />
+    <option name="FONT_SIZE" value="30" />
+    <option name="FONT_FAMILY" value="Ligalex Mono" />
+    <option name="LINE_SPACING" value="1.8" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
@@ -44,7 +44,6 @@
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
