@@ -10,8 +10,7 @@
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Lekton" />
+    <option name="FONT_FAMILY" value="SF Mono" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
