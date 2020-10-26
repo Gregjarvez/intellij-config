@@ -10,7 +10,7 @@
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="Operator Mono Lig" />
     <option name="LINE_SPACING" value="1.6" />
     <option name="USE_LIGATURES" value="true" />
@@ -64,6 +64,7 @@
         <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
+    <option name="lastViewedProviderKeyId" value="Scala.ScalaGeneralTypeHintsSettingsModel" />
   </component>
   <component name="LiveEditOptions" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />

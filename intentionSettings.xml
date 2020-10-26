@@ -28,5 +28,6 @@
     <ignoreAction name="JavaScript/Declaration/Split Declaration And Move To Scope Start" />
     <ignoreAction name="TypeScript/Disable coloring of type guard narrowed types" />
     <ignoreAction name="Language injection/Edit injected fragment" />
+    <ignoreAction name="Scala/Argument Conversion/Convert to block expression" />
   </component>
 </application>

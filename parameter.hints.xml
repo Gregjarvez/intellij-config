@@ -8,11 +8,11 @@
         <added pattern="registerComponent(type,component)" />
         <added pattern="Array.map(callbackfn,thisArg)" />
       </blacklist>
-      <blacklist language="JavaScript">
-        <added pattern="Array.map(callbackfn,thisArg)" />
-      </blacklist>
       <blacklist language="Scala">
         <added pattern="playground.Playground.Person.Person(name,age,favouriteMovie)" />
+      </blacklist>
+      <blacklist language="JavaScript">
+        <added pattern="Array.map(callbackfn,thisArg)" />
       </blacklist>
     </blacklists>
     <option id="js.show.names.for.all.args" value="true" />
@@ -20,6 +20,7 @@
       <language id="JAVA" />
       <language id="TypeScript" />
       <language id="Angular2Html" />
+      <language id="Scala" />
       <language id="JavaScript" />
       <language id="kotlin" />
       <language id="Groovy" />
