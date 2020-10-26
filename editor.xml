@@ -64,7 +64,7 @@
         <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="Scala.ScalaGeneralTypeHintsSettingsModel" />
+    <option name="lastViewedProviderKeyId" value="Scala.ScalaTypeHintsSettingsModel" />
   </component>
   <component name="LiveEditOptions" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
