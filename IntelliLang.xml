@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="js">
+      <display-name>SQL select/delete/insert/update/create</display-name>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("[\"'`] *(WITH .* AS *\\()? *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .* SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) .*[\"'`]?"))]]></place>
+    </injection>
+  </component>
+</application>
