@@ -9,6 +9,9 @@
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="#10000a7" />
   </action>
@@ -19,6 +22,7 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift e" />
   </action>
+  <action id="MinimizeCurrentWindow" />
   <action id="Quokka.RunQuokkaOnFile">
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
