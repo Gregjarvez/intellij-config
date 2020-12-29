@@ -82,27 +82,27 @@
     </library>
     <library name="Python 3.6 interpreter library">
       <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework///lib/python3.6" />
+        <root url="file:///Library/Frameworks/Python.framework///lib/python3.6/" />
+        <root url="file:///Library/Frameworks/Python.framework///lib/python3.6/" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-1199943127" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+        <root url="file://$USER_HOME$/Library/Application Support/JetBrains/Toolbox///ch-0/203.5981.155////" />
+        <root url="file://$USER_HOME$/Library/Application Support/JetBrains/Toolbox///ch-0/203.5981.155////typeshed//3" />
+        <root url="file://$USER_HOME$/Library/Application Support/JetBrains/Toolbox///ch-0/203.5981.155////typeshed//" />
+        <root url="file://$USER_HOME$/Library/Application Support/JetBrains/Toolbox///ch-0/203.5981.155////typeshed//3" />
+        <root url="file://$USER_HOME$/Library/Application Support/JetBrains/Toolbox///ch-0/203.5981.155////typeshed//" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework///lib/python3.6" />
+        <root url="file:///Library/Frameworks/Python.framework///lib/python3.6/" />
+        <root url="file:///Library/Frameworks/Python.framework///lib/python3.6/" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-1199943127" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+        <root url="file://$USER_HOME$/Library/Application Support/JetBrains/Toolbox///ch-0/203.5981.155////" />
+        <root url="file://$USER_HOME$/Library/Application Support/JetBrains/Toolbox///ch-0/203.5981.155////typeshed//3" />
+        <root url="file://$USER_HOME$/Library/Application Support/JetBrains/Toolbox///ch-0/203.5981.155////typeshed//" />
+        <root url="file://$USER_HOME$/Library/Application Support/JetBrains/Toolbox///ch-0/203.5981.155////typeshed//3" />
+        <root url="file://$USER_HOME$/Library/Application Support/JetBrains/Toolbox///ch-0/203.5981.155////typeshed//" />
       </SOURCES>
     </library>
     <library name="scala-sdk-2.12.10" type="Scala">
