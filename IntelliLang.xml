@@ -4,5 +4,9 @@
       <display-name>SQL select/delete/insert/update/create</display-name>
       <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("[\"'`] *(WITH .* AS *\\()? *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .* SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) .*[\"'`]?"))]]></place>
     </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>script/@dangerouslySetInnerHTML</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("dangerouslySetInnerHTML")).withParent(xmlTag().withLocalName(string().equalTo("script")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>
