@@ -1616,6 +1616,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.teststory">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="wallaby.js" />
+              <option name="myPluginName" value="Wallaby" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tga">
           <value>
             <plugin>
@@ -2746,6 +2754,11 @@
                   <entry key="uTestRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="utest" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="wallaby">
+                    <value>
+                      <FeaturePluginData displayName="Wallaby.js" pluginName="Wallaby" pluginId="wallaby.js" />
                     </value>
                   </entry>
                 </map>
