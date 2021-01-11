@@ -154,6 +154,10 @@
           <option name="url" value="git@bitbucket.org:worldstores/payment-service-aws-stacks.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:testing-library/react-testing-library.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/dunelm" />
