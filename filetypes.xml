@@ -7,8 +7,8 @@
       <mapping pattern="look-detail.js" type="PLAIN_TEXT" />
       <mapping pattern="LookCollectionItem.js" type="PLAIN_TEXT" />
       <mapping pattern="index..js" type="PLAIN_TEXT" />
-      <mapping pattern="ReturnsTemplateHeader.js" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern="ReturnsTemplateHeader.js" type="PLAIN_TEXT" />
       <mapping ext="torrent" type="PLAIN_TEXT" />
       <mapping ext="csscs" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
