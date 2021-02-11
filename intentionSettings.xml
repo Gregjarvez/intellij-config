@@ -29,5 +29,7 @@
     <ignoreAction name="TypeScript/Disable coloring of type guard narrowed types" />
     <ignoreAction name="Language injection/Edit injected fragment" />
     <ignoreAction name="Scala/Argument Conversion/Convert to block expression" />
+    <ignoreAction name="JavaScript/Numbers/Flip operands of an arithmetic operation" />
+    <ignoreAction name="JavaScript/Quote property names" />
   </component>
 </application>
