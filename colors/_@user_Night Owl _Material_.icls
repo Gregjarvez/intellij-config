@@ -4,11 +4,11 @@
     <property name="created">2021-01-08T12:37:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-01-27T09:10:57</property>
+    <property name="modified">2021-02-12T00:11:11</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Operator Mono Lig" />
-  <option name="CONSOLE_FONT_SIZE" value="17" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.3" />
   <colors>
@@ -467,7 +467,6 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="addb67" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -579,7 +578,6 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="addb67" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -591,7 +589,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -638,7 +635,6 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="82aaff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
@@ -663,13 +659,11 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="7fdbca" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="82aaff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -1220,7 +1214,6 @@
     <option name="JS.CONSOLE">
       <value>
         <option name="FOREGROUND" value="7fdbca" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.DEBUGGER_STMT">
@@ -1236,13 +1229,11 @@
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="82aaff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="addb67" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -1263,7 +1254,6 @@
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a9dc76" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.MODULE_NAME">
@@ -3561,7 +3551,6 @@
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="fad430" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TS.TYPE_GUARD">
