@@ -29,6 +29,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta l" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="ResourceExplorer.show" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
