@@ -1,27 +1,27 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="*.spec.ts" type="PLAIN_TEXT" />
-      <mapping pattern="index..js" type="PLAIN_TEXT" />
-      <mapping pattern="ReturnsTemplateHeader.js" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="look-detail.js" type="PLAIN_TEXT" />
-      <mapping pattern="LookCollectionItem.js" type="PLAIN_TEXT" />
-      <mapping ext="js " type="PLAIN_TEXT" />
       <mapping ext="torrent" type="PLAIN_TEXT" />
-      <mapping ext="csscs" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="csscs" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="env" approved="true" type="Env File" />
+      <removed_mapping ext="js " approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="*.spec.ts" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <removed_mapping pattern="LookCollectionItem.js" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="ReturnsTemplateHeader.js" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="index..js" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="look-detail.js" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
