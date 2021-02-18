@@ -2,6 +2,9 @@
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
@@ -38,6 +41,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="ServiceView.ShowServices" />
+  <action id="ShowProjectStructureSettings" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
