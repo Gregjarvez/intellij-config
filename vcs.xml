@@ -166,6 +166,10 @@
           <option name="url" value="git@github.com:nodejs/node.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:fastify/fast-json-stringify.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/stuff" />
