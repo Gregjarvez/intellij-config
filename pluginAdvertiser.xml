@@ -217,6 +217,11 @@
                       <FeaturePluginData displayName="utest" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
+                  <entry key="wallaby">
+                    <value>
+                      <FeaturePluginData displayName="Wallaby.js" pluginName="Wallaby" pluginId="wallaby.js" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
